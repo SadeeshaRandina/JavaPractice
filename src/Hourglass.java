@@ -7,7 +7,6 @@ import java.util.concurrent.*;
 import java.util.regex.*;
 
 
-
 public class Hourglass {
     public static void main(String[] args) throws IOException {
         Scanner input = new Scanner(System.in);
